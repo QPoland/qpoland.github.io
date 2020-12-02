@@ -1,41 +1,37 @@
-# Welcome to QPoland!
+## Welcome to GitHub Pages
 
-Welcome to the unofficial web page of QPoland, a group of quantum computing enthusiasts and professionals, acting towards promoting quantum information processing and quantum programming. 
+You can use the [editor on GitHub](https://github.com/QPoland/qpoland.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-## About us
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-QPoland is a QCousin organized by quantum computing researchers and educators from Poland. We organized the first workshops in May 2019 (in Kraków and Warsaw) in collaboration with [QLatvia](https://qworld.lu.lv/index.php/qlatvia/) and officially entered the initialization phase on 11.11.2019 (the 101st anniversary of regaining independence by Poland). Among QPoland members are representatives of, i.a., [Warsaw Quantum Computing Group](https://www.facebook.com/groups/warsaw.quantum), [Institute of Theoretical and Applied Informatics of the Polish Academy of Sciences](https://iitis.pl/en), [Center for Theoretical Physics of the Polish Academy of Sciences](http://www.cft.edu.pl/), [Faculty of Mathematics, Informatics and Mechanics of the University of Warsaw](https://www.mimuw.edu.pl/en), and [Warsaw School of Economics](http://www.sgh.waw.pl/en/Pages/default.aspx).
+### Markdown
 
-## Memebers
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-- Anna Dawid
-- Piotr Gawron
-- Adam Glos
-- Paweł Gora (Coordinator)
-- Kamil Hendzel
-- Jacek Karwowski
-- Dawid Kopczyk
-- Michał Kutwin
-- Filip Maciejewski
-- Piotr Migdał
-- Jarosław Miszczak
-- Jakub Nowak
-- Adam Sawicki
-- Oskar Słowik
-- Sebastian Zając
+```markdown
+Syntax highlighted code block
 
-### Contact
+# Header 1
+## Header 2
+### Header 3
 
-qpoland [at] qworld.lu.lv
+- Bulleted
+- List
 
-### Social media
+1. Numbered
+2. List
 
-Facebook group: [groups/qpoland](https://www.facebook.com/groups/qpoland)
+**Bold** and _Italic_ and `Code` text
 
-Facebook page: [QPoland](https://www.facebook.com/QPoland-110308580421373)
+[Link](url) and ![Image](src)
+```
 
-Twitter: [QPolandCousin](https://twitter.com/QPolandCousin)
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-Slack:
-[qpoland](https://join.slack.com/t/qpoland/shared_invite/zt-cfeuwob7-uQH6BjW9k_WbWnAME8Uyuw) 
+### Jekyll Themes
 
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QPoland/qpoland.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
