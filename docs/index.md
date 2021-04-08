@@ -20,12 +20,16 @@ QPoland is a QCousin organized by quantum computing researchers and educators fr
 - Jacek Karwowski
 - Dawid Kopczyk
 - Michał Kutwin
+- Aleksandra Lipińska
 - Filip Maciejewski
 - Piotr Migdał
 - Jarosław Miszczak
 - Jakub Nowak
 - Adam Sawicki
 - Oskar Słowik
+- Kamila Szafrańska
+- Jerzy Szuniewicz
+- Katarzyna Wojtkowiak
 - Sebastian Zając
 
 ### Contact
