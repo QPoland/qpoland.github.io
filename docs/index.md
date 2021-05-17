@@ -12,25 +12,27 @@ QPoland is a QCousin organized by quantum computing researchers and educators fr
 
 ## Memebers
 
-- Anna Dawid
-- Piotr Gawron
-- Adam Glos
-- Paweł Gora (Coordinator)
-- Kamil Hendzel
-- Jacek Karwowski
-- Dawid Kopczyk
-- Michał Kutwin
-- Aleksandra Lipińska
-- Filip Maciejewski
-- Piotr Migdał
-- Jarosław Miszczak
-- Jakub Nowak
-- Adam Sawicki
-- Oskar Słowik
-- Kamila Szafrańska
-- Jerzy Szuniewicz
-- Katarzyna Wojtkowiak
-- Sebastian Zając
+-  Anna Dawid
+-  Tymon Fabiszewski
+-  Piotr Gawron
+-  Adam Glos
+-  Paweł Gora (Coordinator)
+-  Kamil Hendzel
+-  Jacek Karwowski
+-  Dawid Kopczyk
+-  Marcin Kostrzewa
+-  Michał Kutwin
+-  Aleksandra Lipińska
+-  Filip Maciejewski
+-  Piotr Migdał
+-  Jarosław Miszczak
+-  Jakub Nowak
+-  Adam Sawicki
+-  Oskar Słowik
+-  Kamila Szafrańska
+-  Jerzy Szuniewicz
+-  Katarzyna Wojtkowiak
+-  Sebastian Zając
 
 ### Contact
 
