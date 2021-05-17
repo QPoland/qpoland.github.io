@@ -10,7 +10,7 @@ QPoland is a QCousin organized by quantum computing researchers and educators fr
 
 [Events organized by QPoland](/events/)
 
-## Memebers
+## Members
 
 -  Anna Dawid
 -  Tymon Fabiszewski
@@ -36,7 +36,7 @@ QPoland is a QCousin organized by quantum computing researchers and educators fr
 
 ### Contact
 
-qpoland [at] qworld.lu.lv
+qpoland [at] qworld.net
 
 ### Social media
 
